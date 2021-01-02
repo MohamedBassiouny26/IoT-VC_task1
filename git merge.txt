@@ -1,2 +1,4 @@
 commit before merge
 cmmmit 2 before merge
+
+commit from master 
