@@ -1,3 +1,4 @@
 first commit in rebase
 
 second commit in rebase
+third commit in rebase
