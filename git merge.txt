@@ -1,0 +1,2 @@
+commit before merge
+cmmmit 2 before merge
