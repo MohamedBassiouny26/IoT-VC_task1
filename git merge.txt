@@ -1,4 +1,5 @@
 commit before merge
 cmmmit 2 before merge
 
-commit from master 
+commit from master
+commit 2 from master after create rebase branch
